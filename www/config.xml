@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+
+<widget xmlns = "http://www.w3.org/ns/widgets"
+  xmlns:gap = "http://phonegap.com/ns/1.0"
+  id        = "com.paulyounger.theset"
+  versionCode="001" 
+  version   = "0.0.1">
+
+  <!-- versionCode is optional and Android only -->
+
+  <name>The Set</name>
+
+  <description>
+        it's the bomb
+  </description>
+
+  <author href="" email="">
+        Paul Younger
+  </author>
+
+  <gap:plugin name="GenericPush"/>
+
+</widget>
+
