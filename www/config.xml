@@ -4,14 +4,15 @@
   xmlns:gap = "http://phonegap.com/ns/1.0"
   id        = "com.paulyounger.theset"
   versionCode="001" 
-  version   = "0.0.1">
+  version   = "0.0.2">
 
   <!-- versionCode is optional and Android only -->
 
   <name>PTest</name>
 
   <description>
-        it's the bomb
+        first, get it on iphone.  then get apn to register.  
+        trying new version #
   </description>
 
   <author href="" email="">
